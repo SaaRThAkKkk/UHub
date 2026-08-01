@@ -1,0 +1,1 @@
+ This a full stack project for practisicing the frontend and backend
